@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92A1572C-361A-4207-8B72-842BA1BA9F25}|Task1\\Task1.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation\\task1\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92A1572C-361A-4207-8B72-842BA1BA9F25}|Task1\\Task1.csproj|solutionrelative:task1\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}|Task3.PhoneBook\\Task3.PhoneBook.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation\\task3.phonebook\\task3phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}|Task3.PhoneBook\\Task3.PhoneBook.csproj|solutionrelative:task3.phonebook\\task3phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}|Task3.PhoneBook\\Task3.PhoneBook.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation\\task3.phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}|Task3.PhoneBook\\Task3.PhoneBook.csproj|solutionrelative:task3.phonebook\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}|Task3.PhoneBook\\Task3.PhoneBook.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation\\task3.phonebook\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}|Task3.PhoneBook\\Task3.PhoneBook.csproj|solutionrelative:task3.phonebook\\abonent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HelloWorld.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task1\\HelloWorld.cs",
-              "RelativeDocumentMoniker": "Task1\\HelloWorld.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task1\\HelloWorld.cs",
-              "RelativeToolTip": "Task1\\HelloWorld.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "DocumentIndex": 2,
+              "Title": "Abonent.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task3.PhoneBook\\Abonent.cs",
+              "RelativeDocumentMoniker": "Task3.PhoneBook\\Abonent.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task3.PhoneBook\\Abonent.cs",
+              "RelativeToolTip": "Task3.PhoneBook\\Abonent.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T14:54:39.959Z",
+              "WhenOpened": "2024-08-21T15:48:03.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task3.PhoneBook\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "Task3.PhoneBook\\PhoneBook.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task3.PhoneBook\\PhoneBook.cs",
+              "RelativeToolTip": "Task3.PhoneBook\\PhoneBook.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwH8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:15:55.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3PhoneBook.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task3.PhoneBook\\Task3PhoneBook.cs",
+              "RelativeDocumentMoniker": "Task3.PhoneBook\\Task3PhoneBook.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation\\Task3.PhoneBook\\Task3PhoneBook.cs",
+              "RelativeToolTip": "Task3.PhoneBook\\Task3PhoneBook.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwE8AAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:10:48.095Z",
               "EditorCaption": ""
             }
           ]
