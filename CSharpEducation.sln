@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Task1\Task1.csproj", "{92A1572C-361A-4207-8B72-842BA1BA9F25}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3.PhoneBook", "Task3.PhoneBook", "{097D2596-3274-48B5-ACCD-73A05068C6B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.PhoneBook", "Task3.PhoneBook\Task3.PhoneBook.csproj", "{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3.PhoneBook", "Task3.PhoneBook\Task3.PhoneBook.csproj", "{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1.HelloWorld", "Task1.HelloWorld", "{A8C0098D-8D75-4E39-B464-CAC7E5562DF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Task1\Task1.csproj", "{175C9911-6924-4E02-B16C-6FF598E3083F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2.TicTacToe", "Task2.TicTacToe", "{4D7676BB-D073-4DA8-8FF0-72E940913B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.TicTacToe", "Task2.TicTacToe\Task2.TicTacToe.csproj", "{C64365CC-533A-4252-9DBA-B9B418C95697}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,20 +21,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{92A1572C-361A-4207-8B72-842BA1BA9F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92A1572C-361A-4207-8B72-842BA1BA9F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92A1572C-361A-4207-8B72-842BA1BA9F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92A1572C-361A-4207-8B72-842BA1BA9F25}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175C9911-6924-4E02-B16C-6FF598E3083F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175C9911-6924-4E02-B16C-6FF598E3083F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175C9911-6924-4E02-B16C-6FF598E3083F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175C9911-6924-4E02-B16C-6FF598E3083F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64365CC-533A-4252-9DBA-B9B418C95697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64365CC-533A-4252-9DBA-B9B418C95697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64365CC-533A-4252-9DBA-B9B418C95697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64365CC-533A-4252-9DBA-B9B418C95697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3AB331EC-23CC-4DF3-A7D7-92369C9E88AD} = {097D2596-3274-48B5-ACCD-73A05068C6B4}
+		{175C9911-6924-4E02-B16C-6FF598E3083F} = {A8C0098D-8D75-4E39-B464-CAC7E5562DF4}
+		{C64365CC-533A-4252-9DBA-B9B418C95697} = {4D7676BB-D073-4DA8-8FF0-72E940913B0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C40E4BB-4AC2-46E5-BB7D-91A746800A79}
