@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\bin\Debug\net6.0\Task2.TicTacToe.exe
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\bin\Debug\net6.0\Task2.TicTacToe.deps.json
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\bin\Debug\net6.0\Task2.TicTacToe.runtimeconfig.json
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\bin\Debug\net6.0\Task2.TicTacToe.dll
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\bin\Debug\net6.0\Task2.TicTacToe.pdb
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.sourcelink.json
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.dll
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\refint\Task2.TicTacToe.dll
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.pdb
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\Task2.TicTacToe.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation\Task2.TicTacToe\obj\Debug\net6.0\ref\Task2.TicTacToe.dll
