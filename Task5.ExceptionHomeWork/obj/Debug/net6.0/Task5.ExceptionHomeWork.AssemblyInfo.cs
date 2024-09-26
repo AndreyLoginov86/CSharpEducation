@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Task2.TicTacToe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Task5.ExceptionHomeWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096677ec737cc6bac039f8e9a63aadea48905cdd")]
-[assembly: System.Reflection.AssemblyProductAttribute("Task2.TicTacToe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Task2.TicTacToe")]
+[assembly: System.Reflection.AssemblyProductAttribute("Task5.ExceptionHomeWork")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Task5.ExceptionHomeWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
