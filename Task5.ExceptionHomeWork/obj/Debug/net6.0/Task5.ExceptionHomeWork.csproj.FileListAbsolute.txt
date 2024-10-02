@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.sourcelink.json
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\bin\Debug\net6.0\Task5.ExceptionHomeWork.exe
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\bin\Debug\net6.0\Task5.ExceptionHomeWork.deps.json
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\bin\Debug\net6.0\Task5.ExceptionHomeWork.runtimeconfig.json
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\bin\Debug\net6.0\Task5.ExceptionHomeWork.dll
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\bin\Debug\net6.0\Task5.ExceptionHomeWork.pdb
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.dll
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\refint\Task5.ExceptionHomeWork.dll
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.pdb
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\Task5.ExceptionHomeWork.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation\Task5.ExceptionHomeWork\obj\Debug\net6.0\ref\Task5.ExceptionHomeWork.dll
